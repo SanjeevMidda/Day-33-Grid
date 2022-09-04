@@ -1,0 +1,34 @@
+.box {
+    width:70vw;
+    height:50vh;
+    background-color: blue;
+    margin:auto;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+* {
+    margin: 0;
+    font-family:Helvetica, sans-serif;
+}
+
+.centre {
+    width:50vw;
+    height:20vh;
+    border: 1px solid orange;
+    margin-top: 10px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+body > h1 {
+    text-align: center;
+}
+
+.box h2 {
+    color: white;
+    /* border: 1px solid white; */
+    padding: 50px;
+}
+
